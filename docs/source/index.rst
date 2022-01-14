@@ -136,4 +136,5 @@ Contents
 .. toctree::
 
    usage
+   Boto3
    api
